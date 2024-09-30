@@ -1,0 +1,10 @@
+name: MavenLoaderExample
+version: '1.2-SNAPSHOT'
+main: one.tranic.mavenloader.example.spigot.Main
+api-version: '1.18'
+load: STARTUP
+authors: [ "404" ]
+folia-supported: true
+website: https://tranic.one
+depend:
+  - MavenLoader
